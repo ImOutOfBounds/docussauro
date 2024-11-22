@@ -1,20 +1,66 @@
 ---
-title: Tarefas Necessárias
-sidebar_position: 5
+title: Requisitos Funcionais e Não Funcionais
+sidebar_position: 4
 ---
-# Funções e Tarefas Necessárias
-Para a execução do projeto, serão necessárias algumas funções e tarefas. A seguir, são listadas as principais funções e tarefas necessárias para a execução do projeto.
-## Funções
-*Roteiro:* Para a criação do jogo com uma história para as aeronaves e para os lugares de cada fase (planeta ou estrela), pode-se desenvolver uma história. No momento, não foi decidida a história para o jogo, pois a ideia é que seja desenvolvida em conjunto com a equipe.
-*Modelagem de Espaço:* Para a modelagem do espaço, pode-se utilizar modelos prontos com licença de uso e adaptá-los, caso necessário, utilizando o Blender.
-*Programação:* Para a programação, o grupo pretende utilizar o Unity e o C#.
-*Testagem:* Para a testagem, o grupo pretende utilizar o próprio Unity.
-*Documentação:* Para a documentação, o grupo pretende utilizar o Docusaurus.
-## Tarefas
-*Desenvolvimento de História:* Para o desenvolvimento da história, é necessário que a equipe se reúna e decida a história do jogo, para uma possível continuidade.
-*Modelagem de Espaço:* Para a modelagem do espaço, é necessário que a equipe decida os modelos a serem utilizados e, caso necessário, adapte-os para que façam sentido à ideia do jogo.
-*Programação:* Para a programação, serão feitas funções que permitem o usuário controlar o controle da nave para atirar nos asteroides e aeronvas inimigas.
-*Testagem:* Para a testagem, é necessário que a equipe teste o jogo para verificar se há bugs e se o jogo está funcionando corretamente e fazer testes com usuários.
-*Documentação:* Para a documentação, é necessário que a equipe documente o processo de desenvolvimento do jogo, para que seja possível a reprodução do processo.
-*Reuniões:* Para a execução do projeto, é necessário que a equipe se reúna para discutir o andamento do projeto e para decidir as próximas tarefas a serem realizadas.
-*Revisão:* Para a revisão, é necessário que a equipe revise o projeto para verificar se há erros e se o projeto está alinhado com a ideia inicial.
+
+## Introdução
+Os requisitos funcionais e não funcionais para o desenvolvimento de um jogo de Realidade Virtual, tem como objetivo oferecer uma visão geral das funcionalidades essenciais e dos padrões de qualidade necessários para a entrega de uma experiência imersiva e envolvente.
+
+## Requisitos Funcionais (Jogo)
+Os requisitos funcionais especificam o que o sistema deve realizar para atender aos objetivos do jogo. 
+
+### Jogabilidade
+- **Movimentação:** O jogador deve poder se mover dentro do ambiente virtual utilizando controladores ou por meio de interações físicas.
+- **Interatividade:** O ambiente deve reagir às ações do jogador, como manipulação de objetos, combate ou resolução de quebra-cabeças.
+- **Modo de pausa:** Deve haver a opção de pausar o jogo a qualquer momento.
+- **Ajustes de conforto:** Oferecer opções para minimizar enjoo por movimento (ex.: modo de teletransporte).
+
+## Requisitos Não Funcionais (Jogo)
+Os requisitos não funcionais especificam padrões de qualidade e desempenho esperados.
+
+### Desempenho
+- **Taxa de quadros:** O jogo deve manter uma taxa mínima de 90 FPS para garantir uma experiência fluida e confortável.
+- **Latência:** A latência dos controles deve ser menor que 20ms para evitar atrasos perceptíveis.
+
+### Compatibilidade
+- **Plataformas suportadas:** O jogo deve funcionar em todas as plataformas de navegação, inclusive mobile.
+- **Sistemas Operacionais:** Suporte a todos os SO's como Windows, Ubuntu, Android e Linux.
+
+### Usabilidade
+- **Linguagem:** Suporte a múltiplos idiomas, incluindo português, inglês, espanhol, francês e mandarim.
+- **Espaço:** O usuário não deve sair do lugar enquanto usufrui da experiência.
+
+## Requisitos dos verbos aplicados
+Foram escolhido 3 verbos da aba ***Ações e Verbos*** que mais participaram da característica do jogo, sendo assim, os requisitos funcionais e não funcionais deles podem ser definidos, logo abaixo:
+
+## Requisitos Funcionais (Verbos)
+
+### Reconhecer:
+   - O sistema deve identificar e exibir inimigos, aliados ou objetos-chave no ambiente virtual.
+   - Deve haver feedback visual ou auditivo para informar ao jogador sobre os elementos reconhecidos.
+   - O jogo deve permitir a identificação de elementos de forma dinâmica (destacar alvos).
+
+### Atirar:
+   - O jogador deve poder usar armas ou dispositivos específicos para atacar alvos identificados.
+   - As armas disponíveis devem ter diferentes tipos de mecânicas (ex.: disparos rápidos, tiros carregados).
+   - Deve haver um sistema de munição com recarregamento manual ou automático.
+
+### Mirar:
+   - O jogo deve permitir ao jogador mirar utilizando controladores de movimento ou sistemas de rastreamento de cabeça.
+   - Um cursor ou mira virtual deve estar visível para auxiliar no disparo.
+
+## Requisitos Não Funcionais
+
+### Reconhecer:
+   - A detecção de elementos deve ser processada em menos de 100ms para garantir fluidez.
+   - O sistema de reconhecimento deve ser compatível com dispositivos de rastreamento e funcionar mesmo em ambientes complexos.
+ 
+### Atirar:
+   - A latência entre o disparo e a ação no jogo deve ser inferior a 50ms.
+   - Deve haver efeitos visuais e sonoros realistas para melhorar a experiência do jogador.
+   - A física do disparo (trajetória, impacto) deve ser precisa e consistente.
+
+### Mirar:
+   - O sistema de mira deve funcionar com precisão em um campo de visão de 360°.
+   - Deve ser compatível com diferentes controladores e headsets VR.
+   - A calibração da mira deve ser intuitiva e executada em até 30 segundos.
