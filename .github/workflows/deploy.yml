@@ -18,11 +18,11 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        working-directory: ./my_website
+        working-directory: my_website
         run: npm ci
 
       - name: Build Docusaurus site
-        working-directory: ./my_website
+        working-directory: my_website
         run: npm run build
 
       - name: Deploy to GitHub Pages
