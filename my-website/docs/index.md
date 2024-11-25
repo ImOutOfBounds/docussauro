@@ -48,7 +48,9 @@ Neste projeto, desenvolveremos um jogo no estilo clássico de asteroides, adapta
 
 ### 1° Sprint
 
-<iframe style={{ display: 'block', margin: 'auto', width: '100%', height: '50vh', }} src="https://www.canva.com/design/DAGXNTOlGJA/jEvnYlTHCphf_LQreNDehg/view?utm_content=DAGXNTOlGJA&utm_campaign=designshare&utm_medium=link&utm_source=editor" frameborder="0" allowFullScreen> </iframe> 
+<iframe loading="lazy" style={{ display: 'block', margin: 'auto', width: '100%', height: '50vh', }}
+   src="https://www.canva.com/design/DAGXNTOlGJA/nRKp1JdfE1ewSL8yCKIscQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+</iframe>
 
 ## Como Configurar o Ambiente
 
