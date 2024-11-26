@@ -3,11 +3,13 @@ title: Game Design
 sidebar_position: 1
 ---
 
-## Ideia Inicial
-O jogo é um rail shooter, inspirado em jogos de nave classicos como Starfox
+## Conceito Inicial
+
+O projeto é um rail shooter inspirado em clássicos como *Starfox*, que busca proporcionar uma experiência imersiva em realidade virtual. O jogador assume o papel de um piloto atirador cuja missão é proteger planetas da destruição, enfrentando uma chuva de meteoritos e repelindo invasores extraterrestres. A ação se desenrola a bordo de uma espaçonave posicionada em órbita terrestre, servindo como a última linha de defesa contra essas ameaças.
 
 ## Ambientação
-O jogo se passa no espaço, no qual o jogador percorre orbitas de planetas diversos, cada fase é composta por um planeta, contendo seus respectivos inimigos e obstáculos
+
+O jogo é ambientado na espaço sideral, onde o jogador explora as órbitas de diferentes planetas. Cada fase é centrada em um planeta único, apresentando inimigos e obstáculos temáticos que refletem as características e desafios específicos de cada ambiente. Essa diversidade oferece uma experiência dinâmica e imersiva, colocando o jogador em situações variadas enquanto luta para proteger os planetas.
 
 ## Painel de Referencias 
 <!-- Colocar Link Miro -->
