@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Jogo de Asteroides em VR/AR com Meta Quest 3
+# Jogo de Asteroides em VR com Meta Quest 3
 
 Bem-vindo ao projeto de desenvolvimento de um **jogo de asteroides** utilizando **Realidade Virtual (VR)** no **Meta Quest 3**. Este repositório contém todos os recursos necessários para criar uma experiência imersiva e dinâmica, aproveitando as tecnologias de ponta do dispositivo.
 
