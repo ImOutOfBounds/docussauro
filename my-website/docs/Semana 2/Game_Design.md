@@ -20,7 +20,25 @@ O jogo é ambientado na espaço sideral, onde o jogador explora as órbitas de d
 - Zone of The Enders
 
 ## Ciclo de Feedback + Flow
-Ciclo de feedback busca detalhar as reações que o ambiente, inimigos, obstáculos e outros objetos interativos tem ao 
+
+O design do jogo foi concebido para manter o jogador em um estado de engajamento contínuo, equilibrando desafio e recompensa. O ciclo de feedback e o flow são estruturados da seguinte forma.
+
+1. **Ciclo de Ação e Recompensa**:  
+   - Durante o gameplay, o jogador é constantemente desafiado a **desviar de obstáculos, destruir meteoritos e derrotar inimigos.** Feedback imediato é fornecido por meio de:
+     - **Efeitos Visuais e Sonoros**: Explosões, partículas e sons ao acertar inimigos ou desviar de perigos.
+     - **Pontuação e Multiplicadores**: A performance do jogador é recompensada com pontos, bônus e aprimoramentos temporários, como armas secundárias ou escudos.
+     - **Vibração**: Sistema de vibração dos controles acionados quando o o usuário está atirando no alvo.
+
+O estado de Flow se encontra na jogatina do jogo, o engajamento para conseguir finalizar a fase com uma boa pontuação. Existem vários aspectos para conseguir manter e/ou criar picos de Flow, sendo eles:
+
+### Características do estado de flow:
+
+1. **Clareza de objetivos**: O jogador sabe exatamente o que precisa fazer e quais são suas metas no jogo.
+2. **Equilíbrio entre desafio e habilidade**: O jogo apresenta dificuldades que não são fáceis demais (evitando o tédio) nem impossíveis (evitando frustração).
+3. **Feedback imediato**: O jogador recebe respostas rápidas e claras sobre suas ações, como acertos, erros e progresso.
+4. **Sensação de controle**: O jogador sente que suas habilidades e decisões têm impacto direto nos resultados.
+5. **Imersão completa**: O jogador está tão concentrado que perde a noção do tempo e ignora distrações externas.
+6. **Satisfação intrínseca**: A atividade em si é recompensadora, independentemente de recompensas externas.
 
 ## Narrativa + Árvore de interações
 <!-- Twine HTML -->
@@ -29,7 +47,20 @@ Ciclo de feedback busca detalhar as reações que o ambiente, inimigos, obstácu
 O jogador consegue se movimentar nos eixos x e y, ao passo que a nave se movimenta de forma automatica para a frente, o jogador possui a possibilidade de alterar a velocidade da mesma
 
 ## Level Design
-<!-- Papel ou digital -->
+
+Para o desenvolimento do jogo, primeiramente é criado um esboço inicial do jogo com o intuito de guiar as ideias iniciais antes do desenvolvimento. Isso ajuda e define com maior clareza, qual será o design e funcionalidades básicas do jogo. Sendo assim, segue a baixo os 2 esboços iniciais da tela de jogatina.
+
+### 1° Conceito
+
+![1° Conceito](./img/1_conceito.png)
+
+O primeio conceito do jogo está mais voltado a coloração do jogo, como seria cenário de fundo para o jogador, o que seria visto de forma inicial e minimalista do painél da nave.
+
+![2° Conceito](./img/2_conceito.png)
+
+### 2° Conceito (Complementar)
+
+O segundo conceito complementa o primeiro, apresentando com mais detalhes a estrutura da nave e os elementos do cockpit, como a mira, os sensores de detecção e os controles localizados nos cantos inferiores opostos da interface. No lado direito, encontra-se o controle de movimentação da aeronave, cujo movimento é refletido diretamente no jogo. Já no lado esquerdo, há uma alavanca responsável pelo controle do propulsor, ajustando a velocidade da nave.
 
 ## Seleção de Assets
 <!-- Lista de arquivos -->
