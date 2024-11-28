@@ -56,9 +56,9 @@ Para o desenvolimento do jogo, primeiramente é criado um esboço inicial do jog
 
 O primeio conceito do jogo está mais voltado a coloração do jogo, como seria cenário de fundo para o jogador, o que seria visto de forma inicial e minimalista do painél da nave.
 
-![2° Conceito](./img/2_conceito.png)
-
 ### 2° Conceito (Complementar)
+
+![2° Conceito](./img/2_conceito.png)
 
 O segundo conceito complementa o primeiro, apresentando com mais detalhes a estrutura da nave e os elementos do cockpit, como a mira, os sensores de detecção e os controles localizados nos cantos inferiores opostos da interface. No lado direito, encontra-se o controle de movimentação da aeronave, cujo movimento é refletido diretamente no jogo. Já no lado esquerdo, há uma alavanca responsável pelo controle do propulsor, ajustando a velocidade da nave.
 
