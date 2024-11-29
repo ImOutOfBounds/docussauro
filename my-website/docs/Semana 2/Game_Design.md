@@ -72,5 +72,3 @@ O segundo conceito complementa o primeiro, apresentando com mais detalhes a estr
 
 ## Wireframes VR
 <!-- papel ou digital -->
-
-## Apresentaçao 
