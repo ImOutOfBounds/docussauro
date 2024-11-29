@@ -41,10 +41,15 @@ O estado de Flow se encontra na jogatina do jogo, o engajamento para conseguir f
 6. **Satisfação intrínseca**: A atividade em si é recompensadora, independentemente de recompensas externas.
 
 ## Narrativa + Árvore de interações
-<!-- Twine HTML -->
 
-### Arvorev de Interações
-O jogador consegue se movimentar nos eixos x e y, ao passo que a nave se movimenta de forma automatica para a frente, o jogador possui a possibilidade de alterar a velocidade da mesma
+### Narrativa:
+A narrativa consiste no seguinte storytelling: Você é um astronauta de uma realidade futurista, porém, nesse futuro distante, os cargos de astronautas não são todos voltados para exploração. No seu caso, você é um astronauta chamado de "Zelador". Seu trabalho consiste em voar com sua espaçonave pelas órbitas dos planetas ocupados pelos humanos, utilizando as armas da sua nave para eliminar quaisquer tipos de destroços, meteoros ou lixo que possam vir a causar danos. Ao longo da sua jornada, a nave disponibiliza aulas de história sobre os planetas que estão sendo orbitados. Elimine toda a ameaça nas órbitas e descubra a história dos planetas colonizados para concluir o jogo.
+
+### Árvore de Interações
+De maneira objetiva, o jogador consegue se movimentar nos eixos X e Y, dentro de um corredor de espaço delimitado, ao passo que a nave se movimenta de forma automática para a frente. O jogador possui a possibilidade de alterar a velocidade da mesma, aumentando-a ou reduzindo-a. Por fim, o jogador pode atirar, sendo que a mira do disparo é realizada com a própria movimentação da nave, ou seja, o disparo sempre parte do "centro" da nave.
+
+Para uma visão mais detalhada, acesse o <a href="https://twinery.org/2/#/stories/68081cfa-4f79-46e0-9f9b-da9d99e355c4" target="_blank">Twine</a>
+
 
 ## Level Design
 
