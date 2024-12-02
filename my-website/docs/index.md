@@ -50,6 +50,12 @@ Neste projeto, desenvolveremos um jogo no estilo clássico de asteroides, adapta
    src="https://www.canva.com/design/DAGXNTOlGJA/nRKp1JdfE1ewSL8yCKIscQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 
+### 2° Sprint
+
+  <iframe loading="lazy" style={{ display: 'block', margin: 'auto', width: '100%', height: '50vh', }}
+    src="https://www.canva.com/design/DAGX23aTqgc/huzXpQozG4Za-ZpqHgSekw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+
 ## Como Configurar o Ambiente
 
 1. 
