@@ -17,16 +17,19 @@ A paleta de cores foi pensada com o propósito de criar contraste entre o univer
 
 #### Paleta do background "Universo"
 Para a criação da paleta de cores do universo, foram utilizados tonalidades de roxo e preto, para remeter ao ar de mistério e criatividade, temas que se encaixam tanto com o tema futurista abordado no game, quanto à imensidão do universo representado na cena.
-<img src="./img/background-paleta.png" alt="1° Paleta Universo" width="500" height="300" />
+
+![background-paleta](./img/background-paleta.png)
 
 #### Paleta de cores da nave do jogador
 Ao elaborar a paleta de cores da visualização da nave, foi considerada a cor azul em tons claros e Neons, para simbolizar que a nave que o jogador está pilotando é um local seguro. É importante salientar que toda a visualização da nave por parte do jogador será por meio de uma "projeção holográfica" e transparênte da mesma, possibilitando que o jogador consiga enxergar os obstáculos à frente das partes da nave, reduzindo o nível de obstrução da visão do jogador. 
 
-<img src="./img/manche-paleta.png" alt="2° Paleta Manche" width="500" height="300" />
+![manche-paleta](./img/manche-paleta.png)
 
 #### Paleta de cores dos inimigos
 Por fim, a paleta de cores dos inimigos foi baseada em tons de vermelho vibrante, com o objetivo tanto de representar o perigo, quanto de criar um efeito de contraste com a nave vista do lado de dentro pelo jogador.
-<img src="./img/enemys-paleta.png" alt="3° Paleta Inimigos" width="500" height="300" />
+
+![enemys-paleta](./img/enemys-paleta.png)
+
 
 ## Painel de Referencias 
 <!-- Colocar Link Miro -->
