@@ -1,5 +1,5 @@
 # Demonstração
-Produzimos um video para demonstrar como foi o progresso do projeto até então 
+Produzimos um video para demonstrar como foi o progresso do projeto até então. A gameplay foi feita a partir do espelhamento da visão do jogador utilizando o Meta Quest, no Unity.
 
 ### Gameplay
 <video controls width="600">
