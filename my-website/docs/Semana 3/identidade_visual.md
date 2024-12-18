@@ -18,7 +18,7 @@ e **_Future Edge_** para a palavra _"Rush"_.
 
 Ambas as fontes são sem serifa e possuem um estilo futurista, que remete ao tema do projeto.
 
-<br>
+<br />
 
 ## Paleta cromática
 
@@ -38,7 +38,7 @@ Abaixo, é possível visualizar a paleta cromática do projeto:
 
 ![Paleta cromática](./assets/paleta_cromatica.jpg)
 
-<br>
+<br />
 
 ## Iconografia
 
@@ -48,13 +48,13 @@ O ícone do logotipo é composto por uma nave espacial, que representa o tema do
 
 ![Iconografia](./assets/iconografia.png)
 
-<br>
+<br />
 
 ### Texturas
 
 As texturas são elementos gráficos que são utilizados para dar mais profundidade e realismo ao projeto. Para a identidade visual do projeto, o grupo optou por não utilizar desta ferramenta, pois a paleta cromática e a iconografia já são suficientes para representar o tema do projeto.
 
-<br>
+<br />
 
 # Logotipo
 
@@ -64,7 +64,7 @@ A construção dos elementos explicados anteriormente resultou no logotipo do pr
 
 ![Logotipo](./assets/logotipo.jpg)
 
-<br>
+<br />
 
 # Referências
 

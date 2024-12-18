@@ -4,18 +4,18 @@ Aqui está uma lista dos assets que foram utilizados até então na demonstraç�
 ### 1. Skybox Personalizada  
 O grupo optou por desenhar a Skybox que é utilizada na cena, a mesma que constitui um ambiente espacial com detalhes em roxo e estrelas.  
 
-<img src='./assets/skybox.jpeg'>  
+<img src='./assets/skybox.jpeg' />  
 
 ### 2. Nave  
 A nave foi desenhada por nós, tanto no espaço interno como externo, tendo um visual que relembra a pegada urbano-futurista.  
 
-<img src='./assets/nave_fora.jpeg'>  
-<img src='./assets/nave_dentro.jpeg'>  
+<img src='./assets/nave_fora.jpeg' />  
+<img src='./assets/nave_dentro.jpeg' />  
 
 ### 3. Planeta  
 Foi desenvolvido um planeta como asset para compor o ambiente e futuramente servir como ponto de colisão. A estrutura em si é inspirada em Saturno, mas alteramos as cores para parecer um planeta genérico.  
 
-<img src='./assets/planeta.jpeg'>  
+<img src='./assets/planeta.jpeg' />  
 
 ## Próximos Assets  
 Já temos alguns dos assets que planejamos usar nos próximos passos. Alguns deles são:  
