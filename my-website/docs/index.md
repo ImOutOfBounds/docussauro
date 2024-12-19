@@ -64,3 +64,11 @@ Neste projeto, desenvolveremos um jogo no estilo clássico de asteroides, adapta
    ```bash
    git clone https://github.com/ImOutOfBounds/docussauro.git
    ```
+## Arquivos do Jogo (Unity)
+
+1. Acesse o seu GitHub
+2. Copie o link do repositório
+3. Clone este repositório:
+   ```bash
+   git clone https://github.com/ImOutOfBounds/Astro-Rush.git
+   ```
