@@ -56,10 +56,10 @@ Neste projeto, desenvolveremos um jogo no estilo clássico de asteroides, adapta
     src="https://www.canva.com/design/DAGX23aTqgc/huzXpQozG4Za-ZpqHgSekw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 
-## Como Configurar o Ambiente
+## Documentação do Projeto
 
-1. 
-2. 
+1. Acesse o seu GitHub
+2. Copie o link do repositório
 3. Clone este repositório:
    ```bash
    git clone https://github.com/ImOutOfBounds/docussauro.git
